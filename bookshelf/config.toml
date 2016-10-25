@@ -1,0 +1,3 @@
+baseurl = "http://localhost:8888/bookshelf/"
+languageCode = "de-de"
+title = "Hugo Test"
